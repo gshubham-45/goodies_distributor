@@ -54,8 +54,10 @@ Duplicate scans are prevented automatically
 🧠 User-friendly, responsive UI
 
 🛠 Tech Stack
-Layer	Technology
-Frontend	React, HTML5 QR Scanner
-Backend	Spring Boot (Java)
-Database	MongoDB
-Others	CSV Export, PWA-ready, REST APIs
+| Layer    | Technology                       |
+| -------- | -------------------------------- |
+| Frontend | React, HTML5 QR Scanner          |
+| Backend  | Spring Boot (Java)               |
+| Database | MongoDB                          |
+| Others   | CSV Export, PWA-ready, REST APIs |
+
